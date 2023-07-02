@@ -1,0 +1,1598 @@
+fileFormatVersion: 2
+guid: 20f28c9fd3913254e96daffa7cf5af6a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84223084f621d469289cef754de9a6
+      internalID: -1576042762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bf886ce504e44cb13c1c16b919e6e
+      internalID: -56111425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114ee9c3b7f999428f376e762d03612
+      internalID: 800120404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6f3fa76e2abd04c913c45393daafe0
+      internalID: -1362366871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1262ec251f7c4dbba14e5451d1d10
+      internalID: -1722017445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be580acb53642ad48a57fb3a942b8b20
+      internalID: -638013765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5076de935fffd2b4b9b3eea77469686d
+      internalID: -1920623116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e31f740a566d94ab9e4a2fda8397a7
+      internalID: 434287543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81808702d38a346b8b6c940650f956
+      internalID: -1766188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff00bc66201487c4cbceda509a19b973
+      internalID: -466464604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1364
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94978e8942af494c884cdd89b0f8fb9
+      internalID: -1163705094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90be30d42cd8e49a05e938a0592621
+      internalID: -1906766312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c014c84263b34ba4301d9159d6912
+      internalID: -111670164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab733f7db5aa442b7e9985d5f1e3d8
+      internalID: 1524339233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199c568f5d1f9654b92f79e5928ccd18
+      internalID: 1047522046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c678bc82d928bd468add07b8dff9178
+      internalID: 1281622931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47988a21f5ddfbf4d8d6b462c0e05293
+      internalID: 276082118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05386ddef1b3a4d4e8eba61b749bee41
+      internalID: 361153454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf33fb6cd295b34e9c303e7f9bc3beb
+      internalID: 1638909796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a426b054d8cac14287a69e59e47bb46
+      internalID: 1210194111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7068647ace443bd4d843d986d3ac89ef
+      internalID: 408907315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1092
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2528960f4e2e4449a5759990740d5d
+      internalID: 861882445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc07caa4f611245a4c1e3b4d39a4b8
+      internalID: -1743953492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e2167a2ab300f4a8de691f1204994f
+      internalID: -1509194099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d55ee38c6bae458411a79d2719f51
+      internalID: 878234413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f03f4711f58ecf409c863b24f91b72e
+      internalID: -69136306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df543463d1dcd74ea7bcc585844b2b5
+      internalID: 765948023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8482a96d57c144bac28414e72caa74
+      internalID: -1385804940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10505f44f703e3c47b81fe2e81bf94a0
+      internalID: 1668216385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf75ddd4498e5c45a09f6687211d802
+      internalID: -1499961759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98264bad0602d5d4bb1ec47bfa85eab3
+      internalID: -1516637043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ee771608fab744bfb0fe5bac7acc7
+      internalID: 1411715989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 820
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab68a62df5acb42804500443d08cca
+      internalID: 2087373638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d5d7396cb8e7d4285d193af4ff2fc0
+      internalID: -1312860089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9fcbbdf804e842ad8982af8af93bf
+      internalID: -1404812716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ccb291f68cc294d88a44e86c3abf9d
+      internalID: 1279268120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_36
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2dfee4712fccd4d813606614502420
+      internalID: 1561421625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab1bf34f44520743bc32f3952f466fa
+      internalID: -174150055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69305595b092cd4fac6ae5bae8f70f5
+      internalID: 652306455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e928c2143c184989b2f0d3fdbeafd
+      internalID: -1657232620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2dd0987124d5a4b93c2428054506fe
+      internalID: 1848680897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e171cc933fca649b54129574fc9e19
+      internalID: -279004880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_42
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcdafba2e0b09c48a99d8f66bd4437e
+      internalID: 1919238601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_43
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 548
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b52900cc90b964c9a82285864b31b5
+      internalID: -1202355103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12d7cd434f3f6b47ad727ba1592f401
+      internalID: -136462657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2897736ad41c4483c59955e5bad93
+      internalID: 21417675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f09d2fffb9bfe4186cd36576c52c54
+      internalID: 805437059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_47
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41425903c63212468d95a401d175825
+      internalID: 1127755200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f7cf12c89f8d49b8465a4a75070d2
+      internalID: 251454779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 276
+        width: 267
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127a4dbfab34c04bb6bf67ca622029a
+      internalID: -547626611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 276
+        width: 267
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75956a803fbf14fa1e79d6e97ff1a8
+      internalID: -2082057118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e666c5fc30d0144a8008a7109e896ec
+      internalID: -443781875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_52
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43e7d2f0cd3514f8d67e3d206f8e85
+      internalID: -1611083553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 276
+        width: 267
+        height: 265
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100c6c7748b25624c9016fd4f541fb8e
+      internalID: -180813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_54
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 276
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21cd51d075ffd43805ba8b15dfd57c
+      internalID: -1316690068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c04f983f70624b9a6c0fc3045b435
+      internalID: -67779496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943e4244bf689b4ca8922432c8cfa0a
+      internalID: -1831199549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a4739a5e21bc4a886681bfa9e4380
+      internalID: -386837556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_58
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65f677e0dab6f4a87464d3bc09817a
+      internalID: 520341990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132255340a1ae004c9fd3eb087a47b13
+      internalID: -1473629031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03047dd48a1cc564195d49843bda50e2
+      internalID: 683337574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641f1451a283f142867d4578faf7d22
+      internalID: -880152337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bf3f9bd8c958347985b7882347ddb9
+      internalID: 1829084979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_63
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb25595b4aaac7489b1c02c493a2128
+      internalID: -1614380301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d62b5dc1080b514894f6db24e2a454f
+      internalID: 621677739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Brave Cookie (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 4
+        width: 267
+        height: 267
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3368ad5e4988f45a204cdafba967a3
+      internalID: 1757438071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Cookie Run - Brave Cookie (1)_40: 1848680897
+      Mobile - Cookie Run - Brave Cookie (1)_50: -2082057118
+      Mobile - Cookie Run - Brave Cookie (1)_52: -1611083553
+      Mobile - Cookie Run - Brave Cookie (1)_20: 408907315
+      Mobile - Cookie Run - Brave Cookie (1)_62: 1829084979
+      Mobile - Cookie Run - Brave Cookie (1)_59: -1473629031
+      Mobile - Cookie Run - Brave Cookie (1)_60: 683337574
+      Mobile - Cookie Run - Brave Cookie (1)_61: -880152337
+      Mobile - Cookie Run - Brave Cookie (1)_63: -1614380301
+      Mobile - Cookie Run - Brave Cookie (1)_42: 1919238601
+      Mobile - Cookie Run - Brave Cookie (1)_32: 2087373638
+      Mobile - Cookie Run - Brave Cookie (1)_19: 1210194111
+      Mobile - Cookie Run - Brave Cookie (1)_17: 361153454
+      Mobile - Cookie Run - Brave Cookie (1)_57: -386837556
+      Mobile - Cookie Run - Brave Cookie (1)_22: -1743953492
+      Mobile - Cookie Run - Brave Cookie (1)_43: -1202355103
+      Mobile - Cookie Run - Brave Cookie (1)_26: 765948023
+      Mobile - Cookie Run - Brave Cookie (1)_38: 652306455
+      Mobile - Cookie Run - Brave Cookie (1)_12: -111670164
+      Mobile - Cookie Run - Brave Cookie (1)_30: -1516637043
+      Mobile - Cookie Run - Brave Cookie (1)_13: 1524339233
+      Mobile - Cookie Run - Brave Cookie (1)_7: 434287543
+      Mobile - Cookie Run - Brave Cookie (1)_21: 861882445
+      Mobile - Cookie Run - Brave Cookie (1)_41: -279004880
+      Mobile - Cookie Run - Brave Cookie (1)_10: -1163705094
+      Mobile - Cookie Run - Brave Cookie (1)_2: 800120404
+      Mobile - Cookie Run - Brave Cookie (1)_58: 520341990
+      Mobile - Cookie Run - Brave Cookie (1)_11: -1906766312
+      Mobile - Cookie Run - Brave Cookie (1)_37: -174150055
+      Mobile - Cookie Run - Brave Cookie (1)_15: 1281622931
+      Mobile - Cookie Run - Brave Cookie (1)_47: 1127755200
+      Mobile - Cookie Run - Brave Cookie (1)_25: -69136306
+      Mobile - Cookie Run - Brave Cookie (1)_23: -1509194099
+      Mobile - Cookie Run - Brave Cookie (1)_34: -1404812716
+      Mobile - Cookie Run - Brave Cookie (1)_31: 1411715989
+      Mobile - Cookie Run - Brave Cookie (1)_9: -466464604
+      Mobile - Cookie Run - Brave Cookie (1)_33: -1312860089
+      Mobile - Cookie Run - Brave Cookie (1)_14: 1047522046
+      Mobile - Cookie Run - Brave Cookie (1)_16: 276082118
+      Mobile - Cookie Run - Brave Cookie (1)_4: -1722017445
+      Mobile - Cookie Run - Brave Cookie (1)_24: 878234413
+      Mobile - Cookie Run - Brave Cookie (1)_49: -547626611
+      Mobile - Cookie Run - Brave Cookie (1)_39: -1657232620
+      Mobile - Cookie Run - Brave Cookie (1)_29: -1499961759
+      Mobile - Cookie Run - Brave Cookie (1)_48: 251454779
+      Mobile - Cookie Run - Brave Cookie (1)_0: -1576042762
+      Mobile - Cookie Run - Brave Cookie (1)_54: -1316690068
+      Mobile - Cookie Run - Brave Cookie (1)_28: 1668216385
+      Mobile - Cookie Run - Brave Cookie (1)_3: -1362366871
+      Mobile - Cookie Run - Brave Cookie (1)_65: 1757438071
+      Mobile - Cookie Run - Brave Cookie (1)_1: -56111425
+      Mobile - Cookie Run - Brave Cookie (1)_45: 21417675
+      Mobile - Cookie Run - Brave Cookie (1)_27: -1385804940
+      Mobile - Cookie Run - Brave Cookie (1)_8: -1766188426
+      Mobile - Cookie Run - Brave Cookie (1)_18: 1638909796
+      Mobile - Cookie Run - Brave Cookie (1)_56: -1831199549
+      Mobile - Cookie Run - Brave Cookie (1)_36: 1561421625
+      Mobile - Cookie Run - Brave Cookie (1)_5: -638013765
+      Mobile - Cookie Run - Brave Cookie (1)_64: 621677739
+      Mobile - Cookie Run - Brave Cookie (1)_55: -67779496
+      Mobile - Cookie Run - Brave Cookie (1)_44: -136462657
+      Mobile - Cookie Run - Brave Cookie (1)_53: -180813430
+      Mobile - Cookie Run - Brave Cookie (1)_46: 805437059
+      Mobile - Cookie Run - Brave Cookie (1)_51: -443781875
+      Mobile - Cookie Run - Brave Cookie (1)_6: -1920623116
+      Mobile - Cookie Run - Brave Cookie (1)_35: 1279268120
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
